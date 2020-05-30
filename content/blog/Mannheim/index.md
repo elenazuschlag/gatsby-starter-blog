@@ -26,63 +26,63 @@ Ohne Mannheim wäre die Welt verloren. Wir haben nicht nur das Fahrrad, sondern 
 ## Lieder über Mannheim
 Mit ihrem Song *Meine Stadt* haben die *Söhne Mannheims* ihrer Heimatstadt eine wunderschöne Hymne geschrieben.
 
-Meine Stadt holt ihren Mann Heim
-Ganz egal wo er auch ist
-Diesen Reim schickt ihr der Mann Heim
-Der sie so oft vermisst
+Meine Stadt holt ihren Mann Heim</br>
+Ganz egal wo er auch ist</br>
+Diesen Reim schickt ihr der Mann Heim</br>
+Der sie so oft vermisst</br>
 
-Hier steht das Haus,das ich noch nicht gekauft hab
-Ich hab bei dir nur gelernt was ich wirklich gebraucht hab
-Mit unserem Dialekt halb Deutschland erschreckt
-Wenn ich jetzt vun da sing zollt jeda dir Respekt
-Denn des Deutschen liebstes Kind
-Das den Wirtschaftskrieg gewinnt
-Das Automobil das dir so gefiel
-War unser erstes Spiel
-Als Letzte los die Ersten im Ziel
+Hier steht das Haus,das ich noch nicht gekauft hab</br>
+Ich hab bei dir nur gelernt was ich wirklich gebraucht hab</br>
+Mit unserem Dialekt halb Deutschland erschreckt</br>
+Wenn ich jetzt vun da sing zollt jeda dir Respekt</br>
+Denn des Deutschen liebstes Kind</br>
+Das den Wirtschaftskrieg gewinnt</br>
+Das Automobil das dir so gefiel</br>
+War unser erstes Spiel</br>
+Als Letzte los die Ersten im Ziel</br>
 
-Meine Stadt holt ihren Mann Heim
-Ganz egal wo er auch ist
-Diesen Reim schickt ihr der Mann Heim
-Der sie so oft vermisst
+Meine Stadt holt ihren Mann Heim</br>
+Ganz egal wo er auch ist</br>
+Diesen Reim schickt ihr der Mann Heim</br>
+Der sie so oft vermisst</br>
 
-Sie hat mich herzensgut betreut
-Ich habe keinen Tag bereut
-Hier geboren lebte gut bis hier und heut
-Doch jetzt wirds noch besser
-Ich werd zum Geldfresser
-Für meine Stadt die alles für mich tat
-Jetzt geb ich'was zurück
-Denn ich war ne gute Saat
-Geboren 71 Mannem städtisch unn annerscht
-Hett isch's nie gewollt
-Mannheim das Glück ist uns hold
+Sie hat mich herzensgut betreut</br>
+Ich habe keinen Tag bereut</br>
+Hier geboren lebte gut bis hier und heut</br>
+Doch jetzt wirds noch besser</br>
+Ich werd zum Geldfresser</br>
+Für meine Stadt die alles für mich tat</br>
+Jetzt geb ich'was zurück</br>
+Denn ich war ne gute Saat</br>
+Geboren 71 Mannem städtisch unn annerscht</br>
+Hett isch's nie gewollt</br>
+Mannheim das Glück ist uns hold</br>
 
-Meine Stadt holt ihren Mann Heim
-Ganz egal wo er auch ist
-Diesen Reim schickt ihr der Mann Heim
-Der sie so oft vermisst
+Meine Stadt holt ihren Mann Heim</br>
+Ganz egal wo er auch ist</br>
+Diesen Reim schickt ihr der Mann Heim</br>
+Der sie so oft vermisst</br>
 
-Wo steht dein Haus und wo ist dein Garten Eden
-Brauch ich nicht, ich mach die schönsten Fahrten
-Durch mein Land und für meine Leute
-Heute, hier und morgen da
-Doch ich lauf niemals Gefahr
-Zu bleiben dort wo sie nicht ist
-Setz ich mir nur ne kurze Frist
-Denn meine Stadt ist meine Frau
-Der ich alles anvertrau
-Glaube mir ich bleibe hier
+Wo steht dein Haus und wo ist dein Garten Eden</br>
+Brauch ich nicht, ich mach die schönsten Fahrten</br>
+Durch mein Land und für meine Leute</br>
+Heute, hier und morgen da</br>
+Doch ich lauf niemals Gefahr</br>
+Zu bleiben dort wo sie nicht ist</br>
+Setz ich mir nur ne kurze Frist</br>
+Denn meine Stadt ist meine Frau</br>
+Der ich alles anvertrau</br>
+Glaube mir ich bleibe hier</br>
 
-Meine Stadt holt ihren Mann Heim
-Ganz egal wo er auch ist
-Diesen Reim schickt ihr der Mann Heim
-Der sie so oft vermisst
+Meine Stadt holt ihren Mann Heim</br>
+Ganz egal wo er auch ist</br>
+Diesen Reim schickt ihr der Mann Heim</br>
+Der sie so oft vermisst</br>
 
-Meine Stadt holt ihren Mann Heim
-Ganz egal wo er auch ist
-Diesen Reim schickt ihr der Mann Heim
+Meine Stadt holt ihren Mann Heim</br>
+Ganz egal wo er auch ist</br>
+Diesen Reim schickt ihr der Mann Heim</br>
 Der sie so oft vermisst
 
 ## Für die letzten Zweifler
-Wem diese bedeutenden Zitate nicht ausreichend sind, sei das folgende [Video](https://www.youtube.com/watch?v=vREhciOCj3U) empfohlen.
+Wem dies Alles nicht ausreicht, sei das folgende [Video](https://www.youtube.com/watch?v=vREhciOCj3U) empfohlen.
