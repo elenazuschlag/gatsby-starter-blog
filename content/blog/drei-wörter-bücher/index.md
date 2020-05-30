@@ -1,7 +1,7 @@
 ---
 title: drei-wörter-bücher
 date: "2020-05-30"
-description: "Meine Lieblingsbücher in drei Wörter zusammengefasst"
+description: "Meine Lieblingsbücher in drei Wörtern zusammengefasst"
 ---
 
 
