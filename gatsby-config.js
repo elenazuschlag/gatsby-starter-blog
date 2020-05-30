@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Elena`,
+    title: `Herz aller liest`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`
+      name: `Elena`,
+      summary: `,die noch gar nicht so genau weiß, was sie mit diesem Blog tn soll...`
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Mein erster Blog im Rahmen der Cyber-PfingstAka.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
       twitter: `kylemathews`
