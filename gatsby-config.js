@@ -8,7 +8,7 @@ module.exports = {
     description: `Mein erster Blog im Rahmen der Cyber-PfingstAka 2020.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
-      github: `elenazuschlag`
+      twitter: `test`
     }
   },
   plugins: [
