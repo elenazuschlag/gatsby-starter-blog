@@ -1,9 +1,8 @@
 ---
 title: Erdbeerbecher
 date: "2020-05-30"
-description: "Erdbeerbecher"
+description: "Ein Muss bei jedem Maimarktbesuch"
 ---
-##Mannheimer Erdbeerbecher
 
 ![Erdbeerbecher](https://www.morgenweb.de/cms_media/module_img/1063/531514_1_nocroparticledetail_img_02219277.jpg)
 
