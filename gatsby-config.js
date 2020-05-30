@@ -3,9 +3,9 @@ module.exports = {
     title: `Herz aller liest`,
     author: {
       name: `Elena`,
-      summary: `,die noch gar nicht so genau weiß, was sie mit diesem Blog tn soll...`
+      summary: `,die noch gar nicht so genau weiß, was sie mit diesem Blog tun soll...`
     },
-    description: `Mein erster Blog im Rahmen der Cyber-PfingstAka.`,
+    description: `Mein erster Blog im Rahmen der Cyber-PfingstAka 2020.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
       twitter: `kylemathews`
